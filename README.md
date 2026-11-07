@@ -92,13 +92,13 @@ These are recommendations for further investigation. The synthetic data identifi
 ## Dashboard Preview
 
 ### 1. Dashboard Overview
-![Dashboard overview](./screenshots/01-dashboard-overview.png)
+![Dashboard overview](./screenshots/01-dashboard-overview.PNG)
 
 ### 2. Monthly Performance Charts
-![Monthly performance charts](./screenshots/02-performance-charts.png)
+![Monthly performance charts](./screenshots/02-performance-charts.PNG)
 
 ### 3. Key Findings and Recommendations
-![Key findings and recommendations](./screenshots/03-key-findings.png)
+![Key findings and recommendations](./screenshots/03-key-findings.PNG)
 
 
 
