@@ -91,16 +91,15 @@ These are recommendations for further investigation. The synthetic data identifi
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ### 1. Dashboard Overview
-![Dashboard overview showing KPI cards](screenshots/01-dashboard-overview.png)
+![Dashboard overview](./screenshots/01-dashboard-overview.png)
 
 ### 2. Monthly Performance Charts
-![Monthly accommodation performance charts](screenshots/02-performance-charts.png)
+![Monthly performance charts](./screenshots/02-performance-charts.png)
 
 ### 3. Key Findings and Recommendations
-![Key findings and operational recommendations](screenshots/03-key-findings.png)
+![Key findings and recommendations](./screenshots/03-key-findings.png)
+
 
 
 ## Limitations
